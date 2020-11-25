@@ -1,0 +1,17 @@
+METADATO;DESCRIPCION
+Serie de tiempo desde;Marzo de 2020
+Definición del indicador;Número de casos confirmados por el laboratorio de COVID- 19
+Utilidad;Permite conocer la evolución del número de casos confirmados con nuevo coronavirus COVID-19 en el contexto de la pandemia.
+Unidad de medición;Número absoluto
+Periodicidad;Diario
+Fuente de Información ;"SIVIGILA D.C.
+"
+Fecha de diagnóstico;Fecha en que se confirmó el diagnóstico de laboratorio
+Ciudad de residencia;Ciudad donde reside el caso
+Localidad;Localidad de residencia del caso
+Edad;Edad de la persona diagnosticada dada en años
+Sexo;"Sexo al que pertenece la persona diagnosticada
+"
+Tipo de caso;Forma como adquirió la infección por COVID-19. Tiene 4 salidas: Importado, caso relacionado, contacto con caso (+) y en estudio
+Ubicación;Lugar en el que se encuentra el caso. Tiene 3 salidas:  Casa, hospitalización y hospitalización unidad de cuidados intesivos-UCI 
+Estado;Estado de la persona diagnosticada. tiene 5 salidas: leve, moderado, fallecido, grave y egreso
